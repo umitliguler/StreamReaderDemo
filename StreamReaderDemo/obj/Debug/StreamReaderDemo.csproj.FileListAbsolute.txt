@@ -1,0 +1,12 @@
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\StreamReaderDemo\StreamReaderDemo\bin\Debug\StreamReaderDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\StreamReaderDemo\StreamReaderDemo\bin\Debug\StreamReaderDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\StreamReaderDemo\StreamReaderDemo\bin\Debug\StreamReaderDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\StreamReaderDemo\StreamReaderDemo\obj\Debug\StreamReaderDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\StreamReaderDemo\StreamReaderDemo\obj\Debug\StreamReaderDemo.pdb
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\StreamReaderDemo\StreamReaderDemo\bin\Debug\StreamReaderDemo.exe.config
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\StreamReaderDemo\StreamReaderDemo\bin\Debug\StreamReaderDemo.exe
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\StreamReaderDemo\StreamReaderDemo\bin\Debug\StreamReaderDemo.pdb
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\StreamReaderDemo\StreamReaderDemo\obj\Debug\StreamReaderDemo.csprojResolveAssemblyReference.cache
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\StreamReaderDemo\StreamReaderDemo\obj\Debug\StreamReaderDemo.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\StreamReaderDemo\StreamReaderDemo\obj\Debug\StreamReaderDemo.exe
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\StreamReaderDemo\StreamReaderDemo\obj\Debug\StreamReaderDemo.pdb
